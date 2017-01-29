@@ -1,0 +1,25 @@
+RandomRhymeIntent for a rhyme
+RandomRhymeIntent for a random rhyme
+RandomRhymeIntent for a nursery rhyme
+RandomRhymeIntent to play a rhyme
+RandomRhymeIntent to play a nursery rhyme
+RandomRhymeIntent to play a random rhyme
+RandomRhymeIntent to say a rhyme
+RandomRhymeIntent to say a nursery rhyme
+RandomRhymeIntent to say a random rhyme
+RandomRhymeIntent to tell me something interesting
+RandomRhymeIntent to give me a nursery rhyme
+RandomRhymeIntent to get me a random rhyme
+RandomRhymeIntent to give me a rhyme
+RandomRhymeIntent to get me a nursery rhyme
+RandomRhymeIntent to get me a random rhyme
+RandomRhymeIntent to get me a rhyme
+
+RhymeByTitleIntent about {RhymeTitle}
+RhymeByTitleIntent to play {RhymeTitle}
+RhymeByTitleIntent to recite to me {RhymeTitle}
+RhymeByTitleIntent to recite {RhymeTitle}
+RhymeByTitleIntent to say {RhymeTitle}
+RhymeByTitleIntent to sing {RhymeTitle}
+RhymeByTitleIntent to tell me {RhymeTitle}
+RhymeByTitleIntent for {RhymeTitle}
